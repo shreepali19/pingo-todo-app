@@ -1,7 +1,6 @@
-# TaskFlow — Full-Stack MERN Todo App with JWT Authentication
+# Pingo — Full-Stack MERN Todo App with JWT Authentication
 
-A production-ready todo application built with MongoDB, Express, React, and Node.js featuring JWT authentication, bcrypt password hashing, and a responsive Tailwind CSS UI.
-
+A production-ready todo application built with MongoDB, Express, React, and Node.js featuring JWT authentication, bcrypt password hashing, and a responsive Tailwind CSS UI. — Pingo
 ---
 
 ## Features
